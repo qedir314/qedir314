@@ -104,7 +104,7 @@
 <ul>
 
 <li>
-<a href="linkedin.com/in/qedir-zeynalli-1ba68a1a1" target="_blank">
+<a href="https://www.linkedin.com/in/qedir-zeynalli-1ba68a1a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg%2F7jTnPYTLOtcTJwKbV8BA%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  qedir051-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
