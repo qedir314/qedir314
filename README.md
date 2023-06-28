@@ -16,8 +16,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- A passionate Self-taught Front-end And Python developer
+- Currently learning Web Development and AI/ML by Self
 
 <br><br>
 
