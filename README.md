@@ -11,6 +11,7 @@
 
 
 
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -51,6 +52,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+![ViewCount](https://komarev.com/ghpvc/?username=qedir314&color=1A4730)
 
 <p align="center">
   <a href="[https://github.com/qedir314](https://github.com/qedir314)">
